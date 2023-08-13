@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I'm currently working on Vision-Based Navigation for Multiple Unmanned Vehicles using Deep Reinforcement Learning
+🔭 I'm currently working on Vision-Based Navigation for Unmanned Vehicles using Deep Reinforcement Learning
 
 ✨ Epecially interested in MARL (Multi Agent Reinforcement Learning) and Swarming/Flocking
 
