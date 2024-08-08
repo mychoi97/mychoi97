@@ -2,7 +2,7 @@
 
 🔭 I'm currently working on Collective Navigation for Unmanned Vehicles using Deep Reinforcement Learning
 
-✨ Epecially interested in MARL (Multi Agent Reinforcement Learning) and Flocking/Swarming
+✨ Epecially interested in Flocking/Swarming
 
 💬 Hope for potential collaboration and feel free to email me
 
