@@ -1,5 +1,3 @@
-### Hi there
-
 I'm currently working on Collective Navigation for Unmanned Vehicles using Deep Reinforcement Learning
 
 Epecially interested in Flocking/Swarming
