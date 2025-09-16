@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there
 
-🔭 I'm currently working on Collective Navigation for Unmanned Vehicles using Deep Reinforcement Learning
+I'm currently working on Collective Navigation for Unmanned Vehicles using Deep Reinforcement Learning
 
-✨ Epecially interested in Flocking/Swarming
+Epecially interested in Flocking/Swarming
 
-💬 Hope for potential collaboration and feel free to email me
+Hope for potential collaboration and feel free to email me
 
-📫 Email: mychoi@unist.ac.kr
+Email: mychoi@unist.ac.kr
 
 
 <!--
